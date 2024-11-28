@@ -1,0 +1,3 @@
+C:/Users/pedro/Documents/projetos/SnakeDoesNotEatApples-main/build/CMakeFiles/Snake.dir
+C:/Users/pedro/Documents/projetos/SnakeDoesNotEatApples-main/build/CMakeFiles/edit_cache.dir
+C:/Users/pedro/Documents/projetos/SnakeDoesNotEatApples-main/build/CMakeFiles/rebuild_cache.dir
